@@ -84,13 +84,6 @@ sudo systemctl enable hotspot-fallback
 
 ---
 
-## 📸 Vista previa
-
-![Diagrama del sistema](https://user-images.githubusercontent.com/youruser/fake_diagrama.png)
-*(añade una captura o esquema si deseas)*
-
----
-
 ## 📄 Licencia
 
-MIT © 2025 tuusuario
+MIT © 2025 pablogar0
