@@ -1,0 +1,11 @@
+[Unit]
+Description=Hotspot Fallback si no hay conexión Wi-Fi
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/check_wifi.sh
+RemainAfterExit=true
+Type=oneshot
+
+[Install]
+WantedBy=multi-user.target

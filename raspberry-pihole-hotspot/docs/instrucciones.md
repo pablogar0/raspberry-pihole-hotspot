@@ -1,0 +1,1 @@
+Ver archivo principal `README.md` para pasos detallados. Este archivo puede contener instrucciones extendidas en el futuro.
